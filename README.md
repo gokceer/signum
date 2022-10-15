@@ -26,6 +26,3 @@ You can test the app by two ways:
 - [EXPO BUILD](https://expo.io/@gokcer/signum)
 
 In Expo Build you need to open the camera app on your device and scan the code.
-
-## Project status
-Decided to add video call feature by using firebase.
